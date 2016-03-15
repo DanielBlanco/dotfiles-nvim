@@ -1,7 +1,7 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='~/.config/nvim'
-let g:netrw_dirhist_2='~/.config/nvim/includes'
-let g:netrw_dirhist_3='~/.config/nvim'
-let g:netrw_dirhist_4='~/.config/nvim/includes'
-let g:netrw_dirhist_5='~/.config/nvim'
+let g:netrw_dirhist_1='$HOME/.config/nvim'
+let g:netrw_dirhist_2='$HOME/.config/nvim/includes'
+let g:netrw_dirhist_3='$HOME/.config/nvim'
+let g:netrw_dirhist_4='$HOME/.config/nvim/includes'
+let g:netrw_dirhist_5='$HOME/.config/nvim'
